@@ -1,0 +1,2 @@
+<STANDARD> ::= <STAND>
+<STAND> ::= veliki_grad

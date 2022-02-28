@@ -1,0 +1,7 @@
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\Formalne metode\Projektni zadatak\Projektni Novi Novi\ProjekatNoviNovi\ProjekatNoviNovi\bin\Debug\ProjekatNoviNovi.exe.config
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\Formalne metode\Projektni zadatak\Projektni Novi Novi\ProjekatNoviNovi\ProjekatNoviNovi\bin\Debug\ProjekatNoviNovi.exe
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\Formalne metode\Projektni zadatak\Projektni Novi Novi\ProjekatNoviNovi\ProjekatNoviNovi\bin\Debug\ProjekatNoviNovi.pdb
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\Formalne metode\Projektni zadatak\Projektni Novi Novi\ProjekatNoviNovi\ProjekatNoviNovi\obj\Debug\ProjekatNoviNovi.csprojResolveAssemblyReference.cache
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\Formalne metode\Projektni zadatak\Projektni Novi Novi\ProjekatNoviNovi\ProjekatNoviNovi\obj\Debug\ProjekatNoviNovi.csproj.CoreCompileInputs.cache
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\Formalne metode\Projektni zadatak\Projektni Novi Novi\ProjekatNoviNovi\ProjekatNoviNovi\obj\Debug\ProjekatNoviNovi.exe
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\Formalne metode\Projektni zadatak\Projektni Novi Novi\ProjekatNoviNovi\ProjekatNoviNovi\obj\Debug\ProjekatNoviNovi.pdb

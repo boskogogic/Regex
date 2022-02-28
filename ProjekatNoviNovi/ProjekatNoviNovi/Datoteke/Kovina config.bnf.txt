@@ -1,0 +1,6 @@
+<CAR> ::=<MOTOR> <WEIGHT> <SERIALNUMBER>      
+<MOTOR> ::="Disel"|"Petrol"|"Electric"|"Hybrid" 
+<WEIGHT> ::=<DIGIT> 
+<SERIALNUMBER> ::=<LETTER><LETTER><DIGIT><DIGIT><DIGIT> 
+<LETTER> ::="A"|"B"|"C" 
+<DIGIT> ::="1"|"2"|"3" 

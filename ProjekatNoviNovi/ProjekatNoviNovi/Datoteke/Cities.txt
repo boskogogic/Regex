@@ -1,0 +1,2832 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Europe's 500 largest cities: 1 to 100">
+		<meta name="generator" content="Adobe GoLive 6">
+		<title>City Mayors: The 500 largest European cities (1 to 100)</title>
+		<meta name="keywords" content="European cities, European towns">
+	</head>
+
+	<body bgcolor="#ffffff" text="black" link="#000099" vlink="#696969" alink="#696969" leftmargin="2" marginheight="3" marginwidth="2" topmargin="3">
+		<p><img src="../section-pics/banner_statistics.jpg" alt="" border="0"></p>
+		<table border="0" cellpadding="0" cellspacing="2" width="750">
+			<tr>
+				<td width="150" valign="top" align="left"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../pics_icons/icon_largest_cities.jpg" alt="" border="0"><br>
+							City Mayors <a href="../sections/rankings_content.html" target="_parent">ranks</a> the world&rsquo;s largest and richest cities and urban areas. It also ranks the cities in individual countries, and provides a list of the <a href="capitals.html" target="_parent">capital cities</a> of some 200 sovereign countries<br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<img src="../gifs-page1/streifen-utilities.jpg" alt="" border="0"><a href="../usa/rochester.html" target="_parent"><br>
+						</a><a href="../index.html" target="_parent">FRONT PAGE</a><a href="../usa/rochester.html" target="_parent"><br>
+						</a><a href="../gratis/sitesearch.html" target="_parent">SiteSearch</a><br>
+						<a href="../gratis/city_mayors.html" target="_parent">About us</a><br>
+						<a href="../sections/directories.html" target="_parent">Directories</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_relate.jpg" alt="" border="0"><br>
+						<a href="capitals.html" target="_parent">Capital cities</a><br>
+						<a href="../statistics/urban-population-intro.html" target="_parent"><b>Urban population growth from now to 2030</b></a><br>
+						<a href="../statistics/largest-cities-mayors-intro.html" target="_parent">World's largest cities<br>
+								and their mayors 2010</a><br>
+						<a href="../statistics/largest-cities-2007.html" target="_parent">World's largest cities 2007</a><br>
+						<a href="largest_cities.html" target="_parent">Largest cities in the world</a><br>
+						<a href="urban_areas.html" target="_parent">Largest urban areas</a><br>
+						<a href="../statistics/richest-cities-gdp-intro.html" target="_parent">Richest cities in the world</a><br>
+						<a href="euro_cities.html" target="_parent">Largest European cities</a><br>
+						<a href="../marketing/city-brands.html" target="_parent">Europe's top city brands</a><br>
+						<a href="../gratis/us-census2000.html" target="_parent">Largest US cities</a><br>
+						<a href="../gratis/canadian_cities.html" target="_parent">Largest Canadian cities</a><br>
+						<a href="../gratis/brazilian_cities.html" target="_parent">Largest Brazilian cities</a><br>
+						<a href="../gratis/german_topcities.html" target="_parent">Largest German cities</a><br>
+						<a href="../gratis/french_cities.html" target="_parent">Largest French cities</a><br>
+						<a href="../france/france_urban.html" target="_parent">Largest French urban areas</a><br>
+						<a href="../gratis/uk_topcities.html" target="_parent">Largest UK cities</a><br>
+						<a href="../gratis/italian_cities.html" target="_parent">Largest Italian cities</a><br>
+						<a href="../gratis/spanish_cities.html" target="_parent">Largest Spanish cities</a><br>
+						<a href="../gratis/indian_cities.html" target="_parent">Largest Indian cities</a><br>
+						<a href="../gratis/japanese_cities.html" target="_parent">Largest Japanese cities</a><br>
+					</font><font size="-2" face="Arial"><a href="../environment/eiu_bestcities.html" target="_parent">EIU: Best cities in the world</a><br>
+						<a href="quality_survey.html" target="_parent">Mercer: Best cities in the world</a></font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<a href="us_e_cities.html" target="_parent">Top US eCities</a><br>
+						<a href="e-cities.html" target="_parent">Top European eCities</a><br>
+						<a href="../sections/directories.html" target="_parent">Directories</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_metronews.jpg" alt="" border="0"><br>
+							City Mayors reports news from towns and cities around the world. <a href="../news/metronews1.html" target="_parent">Worldwide</a> | <a href="../news/metronews_elections.html" target="_parent">Elections</a> | <a href="../news/metronews_americas.html" target="_parent">North America</a> | <a href="../news/metronews_latinamerica.html" target="_parent">Latin America</a> | <a href="../news/metronews_europe.html" target="_parent">Europe</a> | <a href="../news/metronews_asia.html" target="_parent">Asia</a> | <a href="../news/metronews_africa.html" target="_parent">Africa</a> | <a href="../events/urban_events.html">Events</a> |<br>
+						<br>
+						<img src="../gifs-page1/streifen_worldmayor.jpg" alt="" border="0"><br>
+							Mayors from The Americas, Europe. Asia, Australia and Africa are competing for the annual World Mayor Award. <a href="http://www.worldmayor.com" target="_blank">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen-ranking.jpg" alt="" border="0"><br>
+						City Mayors ranks the world&rsquo;s largest as well as richest cities and urban areas. It also ranks the cities in individual countries, and provides a list of the capital cities of some 200 sovereign countries. <a href="../sections/rankings_content.html" target="_parent">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_events.jpg" alt="" border="0"><br>
+							City Mayors lists and features urban events, conferences and conventions aimed at urban decision makers and those with an interst in cities worldwide. <a href="../events/urban_events.html" target="_parent">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_politics.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors reports political events, analyses the issues and depicts the main players.</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"> <a href="../sections/politics_content.html" target="_parent">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_gov.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors describes and explains the structures and workings of local government in Europe, The Americas, Asia, Australia and Africa. <a href="../sections/government_content.html" target="_parent">More</a></font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<br>
+						<img src="../gifs-page1/streifen_mayors.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors profiles city leaders from around the world and questions them about their achievements, policies and aims. <a href="../sections/mayors_content.html" target="_parent">More</a><br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<img src="../gifs-page1/streifen_economics.jpg" alt="" border="0"><br>
+							City Mayors deals with economic and investment issues affecting towns and cities. <a href="../sections/economics_content.html" target="_parent">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_business.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors reports on how business developments impact on cities and examines cooperation between cities and the private sector. <a href="../sections/business_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_finance.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors describes and explains financial issues affecting local government. <a href="../sections/finance.html" target="_parent">More</a></font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<br>
+						<img src="../gifs-page1/streifen_environment.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors reports urban environmental developments and examines the challenges faced by cities worldwide. <a href="../sections/environment_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_development.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors reports on and discusses urban development issues in developed and developing countries. <a href="../sections/development.html" target="_parent">More</a></font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<br>
+						<img src="../gifs-page1/streifen_society.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors reports on developments in urban society and behaviour and reviews relevant research. <a href="../sections/society_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_transport.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors deals with urban transport issues in developed and developing countries and features the world&rsquo;s greatest metro systems. <a href="../sections/transport_content.html" target="_parent">More</a><br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<img src="../gifs-page1/streifen_education.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors examines education issues and policies affecting children and adults in urban areas. <a href="../sections/education_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_health.jpg" alt="" border="0"><br>
+							City Mayors investigates health issues affecting urban areas with an emphasis on health in cities in developing countries. <a href="../sections/health_content.html" target="_parent">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_culture.jpg" alt="" border="0"><br>
+							City Mayors examines the contributions history and culture make to urban society and environment. <a href="../sections/culture_content.html" target="_parent">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_cityhalls.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors describes the history, architecture and politics of the greatest city halls in the world. <a href="../sections/cityhalls.html" target="_parent">More</a><br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<img src="../gifs-page1/streifen_mensch.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors invites readers to write short stories about people in cities around the world. <a href="../sections/metro_mensch.html" target="_parent">More</a><br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<img src="../gifs-page1/streifen_dialogue.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors questions those who govern the world&rsquo;s cities and talks to men and women who contribute to urban society and environment. <a href="../sections/dialogue_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_orgs.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors profiles national and international organisations representing cities as well as those dealing with urban issues. <a href="../sections/organisations_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_sport.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors reports on major national and international sporting events and their impact on cities. <a href="../sections/sport_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_directories.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors lists cities and city organisations, profiles individual mayors and provides information on hundreds of urban events. <a href="../sections/directories.html" target="_parent">More</a><br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+					</font></td>
+				<td width="5" valign="top" align="left"></td>
+				<td width="440" valign="top" align="left">
+					<h1><font size="3" color="#000099" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Europe's largest cities</b></font><font size="2" color="#000099" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+							
+						
+						Cities ranked 1 to 100</font></h1>
+					<p><b><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
+						Capital letters denote country capital cities. This table provides population figures for cities with legally defined boundaries, with recognised urban status and with its own local government. The figures do not take into account suburban settlements or other heavily populated areas outside city boundaries. Some of the population figures for smaller towns in the United Kingdom include neighbouring rural areas if they and the towns share local government.</font><font size="-2" color="navy" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+							</font></b><font size="-2" color="navy" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><a href="euro_cities.html" target="_parent">Introduction to European cities</a> |  European cities ranked 1 to 100 | <a href="euro_cities2.html" target="_parent">European cities ranked 101 to 200</a> | <a href="euro_cities3.html" target="_parent">European cities ranked 201 to 300</a> | <a href="euro_cities4.html" target="_parent">European cities ranked 301 to 400</a> | <a href="euro_cities5.html" target="_parent">European cities ranked 401 to 500</a> | <a href="largest_cities.html" target="_parent">The world's 300 largest cities</a> | <a href="urban_areas.html" target="_parent">The world's largest urban areas</a> | <a href="../report/slums.html" target="_parent">Urban slums</a> | <a href="capitals.html" target="_parent">The world's capital cities</a> |<br>
+						</font><font size="-2" color="navy" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						</font></p>
+					<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
+						<table width="418" border="1" cellspacing="2" cellpadding="0">
+							<tr>
+								<td align="center" bgcolor="#aaaaaa" width="50">
+									<div align="center">
+										<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Rank</b></font></font></div>
+								</td>
+								<td align="center" bgcolor="#aaaaaa" width="140">
+									<div align="center">
+										<font size="-2"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>City</b></font></font></div>
+								</td>
+								<td align="center" bgcolor="#aaaaaa" width="100">
+									<div align="center">
+										<font size="-2"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Country</b></font></font></div>
+								</td>
+								<td align="center" bgcolor="#aaaaaa" width="80">
+									<div align="center">
+										<font size="-2"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Population</b></font></font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>MOSKVA (Moscow)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">8,297,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>LONDON</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">7,074,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">3 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>St Petersburg</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">4,678,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">4 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>BERLIN</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">3,387,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">5 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>MADRID</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Spain</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2,824,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">6 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>ROMA</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Italy</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2,649,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">7 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>KIEV</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2,590,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">8 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>PARIS</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">France</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2,152,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">9 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>BUCURESTI (Bucharest)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Romania</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2,016,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">10 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>BUDAPEST</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Hungary</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,825,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">11 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Hamburg</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,705,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">12 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>MINSK</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Belarus</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,677,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">13 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>WARSZAWA (Warsaw)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Poland</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,615,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">14 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>BEOGRAD (Belgrade)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Serbia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,594,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">15 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>WIEN (Vienna)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Austria</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,540,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">16 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Kharkov</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,494,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">17 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Barcelona</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Spain</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,455,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">18 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Novosibirsk</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,400,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">19 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Nizhny Novgorod</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,358,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">20 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Milano (Milan)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Italy</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,306,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">21 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Ekaterinoburg</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,267,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">22 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>M&uuml;nchen (Munich)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,195,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">23 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>PRAHA (Prague)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Czech Republic</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,193,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">24 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Samara</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,165,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">25 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Omsk</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,153,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">26 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>SOFIA</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Bulgaria</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,139,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">27 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Dnepropetrovsk</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,108,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">28 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Kazan</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,092,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">29 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Ufa</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,088,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">30 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Chelyabinsk</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,084,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">31 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Donetsk </b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,050,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">32 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Napoli (Naples)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Italy</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,047,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">33 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Birmingham</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,021,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">34 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Perm</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,014,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">35 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Rostov-na-Donu</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,003,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">36 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Odessa</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,002,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">37 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Volgograd</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">992,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">38 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>K&ouml;ln (Cologne)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">963,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">39 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Torino (Turin)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Italy</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">921,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">40 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Voronezh</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">903,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">41 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Krasnoyarsk</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">876,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">42 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Saratov</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">875,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">43 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>ZAGREB</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Croatia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">868,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">44 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Zaporozhye</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">850,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">45 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>L&oacute;dz</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Poland</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">803,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">46 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Marseille</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">France</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">800,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">47 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>RIGA</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Latvia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">793,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">48 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Lvov</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">786,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">49 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>ATHINAI (Athens)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Greece</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">772,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">50 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Salonika</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Greece</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">749,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">51 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>STOCKHOLM</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Sweden</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">744,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">52 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Krak&oacute;w</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Poland</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">740,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">53 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Valencia</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Spain</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">736,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">54 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>AMSTERDAM</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Netherlands</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">729,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">55 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Leeds</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">727,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">56 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Tolyatti</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">720,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">57 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Kryvy Rig</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">705,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">58 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Sevilla</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Spain</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">695,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">59 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Palermo</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Italy</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">689,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">60 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Ulyanovsk</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">668,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">61 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>KISHINEV</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Moldova</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">658,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">62 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Genova</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Italy</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">656,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">63 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Izhevsk</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">654,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">64 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Frankfurt am Main</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">644,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">65 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Krasnodar</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">640,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">66 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Wroclaw (Breslau)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Poland</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">637,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">67 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Glasgow</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">616,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">68 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Yaroslave</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">614,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">69 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Khabarovsk</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">609,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">70 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Vladivostok</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">607,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">71 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Zaragoza</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Spain</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">601,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">72 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Essen</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">600,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">73 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Rotterdam</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Netherlands</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">593,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">74 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Irkutsk</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">591,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">75 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Dortmund</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">590,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">76 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Stuttgart</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">582,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">77 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Barnaul</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">580,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">78 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>VILNIUS</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Lithuania</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">578,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">79 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Poznan</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Poland</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">578,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">80 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>D&uuml;sseldorf</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">569,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">81 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Novokuznetsk</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">564,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">82 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>LISBOA (Lisbon)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Portugal</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">563,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">83 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>HELSINKI</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Finland</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">549,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">84 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>M&aacute;laga</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Spain</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">543,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">85 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Bremen</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">540,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">86 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Sheffield</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">530,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">87 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>SARAJEVO</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Bosnia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">529,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">88 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Penza</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">528,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">89 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Ryazan</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">528,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">90 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Orenburg</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">523,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">91 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Naberezhnye Tchelny</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">521,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">92 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Duisburg</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">520,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">93 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Lipetsk</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">519,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">94 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Hannover</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">515,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">95 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Mykolaiv </b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">510,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">96 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Tula</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">506,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">97 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>OSLO</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Norway</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">505,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">98 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Tyumen</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">502,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">99 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>KOBENHAVN (Copenhagen)</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Denmark</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">499,000</font></div>
+								</td>
+							</tr>
+							<tr>
+								<td width="50">
+									<div align="center">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">100 </font></div>
+								</td>
+								<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Kemerovo</b></font></td>
+								<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+								<td bgcolor="#aaaaaa" width="80">
+									<div align="right">
+										<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">492,000</font></div>
+								</td>
+							</tr>
+						</table>
+						<br>
+						<hr>
+						<a href="euro_cities.html" target="_parent">Introduction to European cities</a> |  European cities ranked 1 to 100 | <a href="euro_cities2.html" target="_parent">European cities ranked 101 to 200</a> | <a href="euro_cities3.html" target="_parent">European cities ranked 201 to 300</a> | <a href="euro_cities4.html" target="_parent">European cities ranked 301 to 400</a> | <a href="euro_cities5.html" target="_parent">European cities ranked 401 to 500</a> | <a href="largest_cities.html" target="_parent">The world's 300 largest cities</a> | <a href="urban_areas.html" target="_parent">The world's largest urban areas</a> | <a href="../report/slums.html" target="_parent">Urban slums</a> | <a href="capitals.html" target="_parent">The world's capital cities</a> |<br>
+						<br>
+					</font><font size="-2" face="Arial"><b>THE LARGEST CITIES IN THE WORLD AND THEIR MAYORS 2010</b><br>
+						<a href="../statistics/largest-cities-mayors-intro.html" target="_parent"><b>Introduction</b></a><br>
+						<b>Cities by size:</b> <a href="../statistics/largest-cities-mayors-1.html" target="_parent">1 to 150</a> | <a href="../statistics/largest-cities-mayors-151.html" target="_parent">151 to 300</a> | <a href="../statistics/largest-cities-mayors-301.html" target="_parent">301 to 450</a> | <a href="../statistics/largest-cities-mayors-451.html" target="_parent">451 to 550</a> |<br>
+						<b>Cities in alphabetical order:</b> <a href="../statistics/largest-cities-mayors-ad.html" target="_parent">A to D</a> | <a href="../statistics/largest-cities-mayors-el.html" target="_parent">E to L</a> | <a href="../statistics/largest-cities-mayors-mr.html" target="_parent">M to R</a> | <a href="../statistics/largest-cities-mayors-sz.html" target="_parent">S to Z</a> |<br>
+						<b>Cities by countries:</b> <a href="../statistics/largest-cities-mayors-ad2.html" target="_parent">A to D</a> | <a href="../statistics/largest-cities-mayors-el2.html" target="_parent">E to L</a> | <a href="../statistics/largest-cities-mayors-mr2.html" target="_parent">M to R</a> | <a href="../statistics/largest-cities-mayors-sz2.html" target="_parent">S to Z</a> |</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<br>
+					</font></td>
+				<td width="5"></td>
+				<td width="150" valign="top" align="left"><font size="2" color="#696969" face="Arial">
+						<table width="52" border="0" cellspacing="2" cellpadding="0">
+							<tr>
+								<td bgcolor="#cccccc">
+									<div align="center">
+										<font size="2" face="Arial"><a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank"><img src="../worldmayor_pics/wm16_150blk.jpg" alt="" border="0"></a><br>
+										</font><font size="2" face="Arial"><a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank"><b>Wanted for the 2016 World Mayor Prize:</b><br>
+													Mayors with exceptional Courage, Compassion and Competence<b><br>
+												</b></a></font></div>
+								</td>
+							</tr>
+						</table>
+					</font><font size="-2" face="Arial"><br>
+						<br>
+					</font><font size="2" color="navy" face="Arial"><b><a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank">Mayors with exceptional courage</a>, <a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank">compassion and competence</a> <a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank">sought for the 2016</a> <a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank">World Mayor Prize</a></b></font><font size="-2" face="Arial"><br>
+						The 2016 World Mayor Prize and Commendations will be awarded to mayors who have accepted and successfully managed the challenges posed by migration but are also convinced of its longterm benefits. They will be leading a city where past and/or more recent immigrants have contributed to the city&rsquo;s society, economy and culture. <i>The City Mayors Foundation will also consider mayors for the honours whose communities has shown exceptional resilience during the recent </i>arrivals from disaster-torn regions<i> of the world.</i><br>
+						<br>
+						If you are convinced, like us, that the world&rsquo;s cities have greatly benefited from immigrants, whose perseverance in the face of hardship and often prejudice has created the civic societies that we value and enjoy today, we invite you to nominate a mayor for the 2016 World Mayor Prize.<br>
+						<br>
+							At a time when there are some 60 million refugees worldwide, mayors to be considered for the World Mayor honours will need to have shown exceptional compassion, courage and competence. Compassion for people who have travelled great distances to find safety. Courage to fight prejudice even in the face of unpopularity. Competence to leverage the value and potential each person offers society.<br>
+						<br>
+						By taking part in this year&rsquo;s World Mayor Project you are also voicing your support for all those cities that have had to bear the brunt of the recent influx of migrants and refugees.<br>
+						<br>
+							Previous winners and runners-up include the mayors of Calgary, Ghent, Bilbao, Perth, Mexico City, Oklahoma City, Cape Town, Zurich, Melbourne, Amsterdam, Athens, Mississauga and Tirana. The World Mayor Project aims to show what outstanding mayors can achieve and raise their profiles nationally and internationally.<br>
+						<br>
+						<b><a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank">PLEASE NOMINATE YOUR CHOICE OF MAYOR NOW</a></b><br>
+						<br>
+						<br>
+					</font></td>
+			</tr>
+		</table>
+		<p><br>
+		</p>
+	<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 START -->
+<script type='text/javascript' src='https://count.carrierzone.com/app/count_server/count.js'></script>
+<script type='text/javascript'><!--
+wm_custnum='e74b3b33b01b034f';
+wm_page_name='euro_cities1.html';
+wm_group_name='/services/webpages/c/i/citymayors.com/public/features';
+wm_campaign_key='campaign_id';
+wm_track_alt='';
+wiredminds.count();
+// -->
+</script>
+<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 END -->
+</body>
+
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Europe's 500 largest cities: 101 to 200">
+		<meta name="generator" content="Adobe GoLive 6">
+		<title>City Mayors: The 500 largest European cities (101 to 200)</title>
+		<meta name="keywords" content="European cities, European towns">
+	</head>
+
+	<body bgcolor="#ffffff" text="black" link="#000099" vlink="#696969" alink="#696969" leftmargin="2" marginheight="3" marginwidth="2" topmargin="3">
+		<p><img src="../section-pics/banner_statistics.jpg" alt="" border="0"></p>
+		<table border="0" cellpadding="0" cellspacing="2" width="750">
+			<tr>
+				<td width="150" valign="top" align="left"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../pics_icons/icon_largest_cities.jpg" alt="" border="0"><br>
+							City Mayors <a href="../sections/rankings_content.html" target="_parent">ranks</a> the world&rsquo;s largest and richest cities and urban areas. It also ranks the cities in individual countries, and provides a list of the <a href="capitals.html" target="_parent">capital cities</a> of some 200 sovereign countries<br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<img src="../gifs-page1/streifen-utilities.jpg" alt="" border="0"><a href="../usa/rochester.html" target="_parent"><br>
+						</a><a href="../index.html" target="_parent">FRONT PAGE</a><a href="../usa/rochester.html" target="_parent"><br>
+						</a><a href="../gratis/sitesearch.html" target="_parent">SiteSearch</a><br>
+						<a href="../gratis/city_mayors.html" target="_parent">About us</a><br>
+						<a href="../sections/directories.html" target="_parent">Directories</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_relate.jpg" alt="" border="0"><br>
+						<a href="capitals.html" target="_parent">Capital cities</a><br>
+						<b><a href="../statistics/largest-cities-mayors-intro.html" target="_parent">World's largest cities<br>
+								and their mayors 2010</a></b><br>
+						<a href="../statistics/largest-cities-2007.html" target="_parent">World's largest cities 2007</a><br>
+						<a href="largest_cities.html" target="_parent">Largest cities in the world</a><br>
+						<a href="urban_areas.html" target="_parent">Largest urban areas</a><br>
+						<a href="../statistics/richest-cities-gdp-intro.html" target="_parent">Richest cities in the world</a><br>
+						<a href="../marketing/city-brands.html" target="_parent">Europe's top city brands</a><br>
+						<a href="euro_cities.html" target="_parent">Largest European cities</a><br>
+						<a href="../gratis/us-census2000.html" target="_parent">Largest US cities</a><br>
+						<a href="../gratis/canadian_cities.html" target="_parent">Largest Canadian cities</a><br>
+						<a href="../gratis/brazilian_cities.html" target="_parent">Largest Brazilian cities</a><br>
+						<a href="../gratis/german_topcities.html" target="_parent">Largest German cities</a><br>
+						<a href="../gratis/french_cities.html" target="_parent">Largest French cities</a><br>
+						<a href="../france/france_urban.html" target="_parent">Largest French urban areas</a><br>
+						<a href="../gratis/uk_topcities.html" target="_parent">Largest UK cities</a><br>
+						<a href="../gratis/italian_cities.html" target="_parent">Largest Italian cities</a><br>
+						<a href="../gratis/spanish_cities.html" target="_parent">Largest Spanish cities</a><br>
+						<a href="../gratis/indian_cities.html" target="_parent">Largest Indian cities</a><br>
+						<a href="../gratis/japanese_cities.html" target="_parent">Largest Japanese cities</a><br>
+						<a href="us_e_cities.html" target="_parent">Top US eCities</a><br>
+						<a href="e-cities.html" target="_parent">Top European eCities</a><br>
+						<a href="../sections/directories.html" target="_parent">Directories</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_metronews.jpg" alt="" border="0"><br>
+							City Mayors reports news from towns and cities around the world. <a href="../news/metronews1.html" target="_parent">Worldwide</a> | <a href="../news/metronews_elections.html" target="_parent">Elections</a> | <a href="../news/metronews_americas.html" target="_parent">North America</a> | <a href="../news/metronews_latinamerica.html" target="_parent">Latin America</a> | <a href="../news/metronews_europe.html" target="_parent">Europe</a> | <a href="../news/metronews_asia.html" target="_parent">Asia</a> | <a href="../news/metronews_africa.html" target="_parent">Africa</a> | <a href="../events/urban_events.html">Events</a> |<br>
+						<br>
+						<img src="../gifs-page1/streifen_worldmayor.jpg" alt="" border="0"><br>
+							Mayors from The Americas, Europe. Asia, Australia and Africa are competing for the annual World Mayor Award. <a href="http://www.worldmayor.com" target="_blank">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen-ranking.jpg" alt="" border="0"><br>
+						City Mayors ranks the world&rsquo;s largest as well as richest cities and urban areas. It also ranks the cities in individual countries, and provides a list of the capital cities of some 200 sovereign countries. <a href="../sections/rankings_content.html" target="_parent">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_events.jpg" alt="" border="0"><br>
+							City Mayors lists and features urban events, conferences and conventions aimed at urban decision makers and those with an interst in cities worldwide. <a href="../events/urban_events.html" target="_parent">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_politics.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors reports political events, analyses the issues and depicts the main players.</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"> <a href="../sections/politics_content.html" target="_parent">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_gov.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors describes and explains the structures and workings of local government in Europe, The Americas, Asia, Australia and Africa. <a href="../sections/government_content.html" target="_parent">More</a></font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<br>
+						<img src="../gifs-page1/streifen_mayors.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors profiles city leaders from around the world and questions them about their achievements, policies and aims. <a href="../sections/mayors_content.html" target="_parent">More</a><br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<img src="../gifs-page1/streifen_economics.jpg" alt="" border="0"><br>
+							City Mayors deals with economic and investment issues affecting towns and cities. <a href="../sections/economics_content.html" target="_parent">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_business.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors reports on how business developments impact on cities and examines cooperation between cities and the private sector. <a href="../sections/business_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_finance.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors describes and explains financial issues affecting local government. <a href="../sections/finance.html" target="_parent">More</a></font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<br>
+						<img src="../gifs-page1/streifen_environment.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors reports urban environmental developments and examines the challenges faced by cities worldwide. <a href="../sections/environment_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_development.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors reports on and discusses urban development issues in developed and developing countries. <a href="../sections/development.html" target="_parent">More</a></font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<br>
+						<img src="../gifs-page1/streifen_society.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors reports on developments in urban society and behaviour and reviews relevant research. <a href="../sections/society_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_transport.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors deals with urban transport issues in developed and developing countries and features the world&rsquo;s greatest metro systems. <a href="../sections/transport_content.html" target="_parent">More</a><br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<img src="../gifs-page1/streifen_education.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors examines education issues and policies affecting children and adults in urban areas. <a href="../sections/education_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_health.jpg" alt="" border="0"><br>
+							City Mayors investigates health issues affecting urban areas with an emphasis on health in cities in developing countries. <a href="../sections/health_content.html" target="_parent">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_culture.jpg" alt="" border="0"><br>
+							City Mayors examines the contributions history and culture make to urban society and environment. <a href="../sections/culture_content.html" target="_parent">More</a><br>
+						<br>
+						<img src="../gifs-page1/streifen_cityhalls.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors describes the history, architecture and politics of the greatest city halls in the world. <a href="../sections/cityhalls.html" target="_parent">More</a><br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<img src="../gifs-page1/streifen_mensch.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors invites readers to write short stories about people in cities around the world. <a href="../sections/metro_mensch.html" target="_parent">More</a><br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<img src="../gifs-page1/streifen_dialogue.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors questions those who govern the world&rsquo;s cities and talks to men and women who contribute to urban society and environment. <a href="../sections/dialogue_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_orgs.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors profiles national and international organisations representing cities as well as those dealing with urban issues. <a href="../sections/organisations_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_sport.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors reports on major national and international sporting events and their impact on cities. <a href="../sections/sport_content.html" target="_parent">More</a><br>
+						<br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><img src="../gifs-page1/streifen_directories.jpg" alt="" border="0"><br>
+					</font><font size="-2" face="Arial">City Mayors lists cities and city organisations, profiles individual mayors and provides information on hundreds of urban events. <a href="../sections/directories.html" target="_parent">More</a><br>
+					</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<br>
+					</font></td>
+				<td width="5" valign="top" align="left"></td>
+				<td width="440" valign="top" align="left">
+					<h1><font size="3" color="#000099" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Europe's largest cities</b></font><font size="2" color="#000099" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+							
+						Cities ranked 101 to 200</font></h1>
+					<p><b><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
+						
+						Capital letters denote country capital cities. This table provides population figures for cities with legally defined boundaries, with recognised urban status and with its own local government. The figures do not take into account suburban settlements or other heavily populated areas outside city boundaries. Some of the population figures for smaller towns in the United Kingdom include neighbouring rural areas if they and the towns share local government.</font><font size="-2" color="navy" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+							</font></b><font size="-2" color="navy" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><a href="euro_cities.html" target="_parent">Introduction to European cities</a> | <a href="euro_cities1.html" target="_parent">European cities ranked 1 to 100</a> | European cities ranked 101 to 200 | <a href="euro_cities3.html" target="_parent">European cities ranked 201 to 300</a> | <a href="euro_cities4.html" target="_parent">European cities ranked 301 to 400</a> | <a href="euro_cities5.html" target="_parent">European cities ranked 401 to 500</a> | <a href="largest_cities.html" target="_parent">The world's 300 largest cities</a> | <a href="urban_areas.html" target="_parent">The world's largest urban areas</a> | <a href="../report/slums.html" target="_parent">Urban slums</a> | <a href="capitals.html" target="_parent">The world's capital cities</a> |<br>
+						</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						</font></p>
+					<table width="418" border="1" cellspacing="2" cellpadding="0">
+						<tr>
+							<td align="center" bgcolor="#aaaaaa" width="50">
+								<div align="center">
+									<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Rank</b></font></font></div>
+							</td>
+							<td align="center" bgcolor="#aaaaaa" width="140">
+								<div align="center">
+									<font size="-2"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>City</b></font></font></div>
+							</td>
+							<td align="center" bgcolor="#aaaaaa" width="100">
+								<div align="center">
+									<font size="-2"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Country</b></font></font></div>
+							</td>
+							<td align="center" bgcolor="#aaaaaa" width="80">
+								<div align="center">
+									<font size="-2"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Population</b></font></font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">101 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Mariupol</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">491,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">102 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Leipzig</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">490,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">103 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>N&uuml;rnberg (Nuremberg)</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">487,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">104 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Bradford</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">483,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">105 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Astrakhan</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">482,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">106 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>DUBLIN</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ireland</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">482,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">107 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Tomsk</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">481,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">108 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Dresden</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">477,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">109 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Gomel</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Belarus</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">475,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">110 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Liverpool</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">468,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">111 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Antwerpen (Anvers)</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Belgium</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">468,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">112 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Lugansk</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">467,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">113 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Kirov </b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">466,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">114 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>G&ouml;teborg (Gothenburg)</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Sweden</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">462,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">115 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Cheboksary</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">459,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">116 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Ivanovo</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">459,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">117 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Gdansk (Danzig)</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Poland</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">458,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">118 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Bryansk</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">455,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">119 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Tver</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">451,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">120 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Edinburgh</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">449,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">121 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>BRATISLAVA</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Slovak Republic</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">449,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">122 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>s-Gravenhage</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Netherlands</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">441,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">123 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Kursk</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">440,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">124 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Manchester</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">431,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">125 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>SKOPLJE</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Macedonia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">430,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">126 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Magnitogorsk</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">427,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">127 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Kaliningrad </b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">425,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">128 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>TALLINN</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Estonia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">418,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">129 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Szczecin</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Poland</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">417,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">130 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Lyon</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">France</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">415,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">131 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Kaunas</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Lithuania</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">414,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">132 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Bristol</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">400,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">133 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Nizhny Tagil</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">393,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">134 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Bochum</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">393,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">135 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Kirklees</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">389,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">136 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Makeyevka</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">388,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">137 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Bydgoszcz</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Poland</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">387,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">138 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Bologna</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Italy</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">386,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">139 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Brno</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Czech Republic</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">385,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">140 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Vinnutsya</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">383,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">141 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Firenze</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Italy</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">382,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">142 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Murmansk</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">379,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">143 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Ulan-Ude</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">370,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">144 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Wuppertal</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">369,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">145 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Arkhangelsk</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">365,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">146 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Kurgan</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">364,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">147 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Toulouse</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">France</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">359,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">148 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Lublin</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Poland</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">356,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">149 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Mogilev</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Belarus</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">356,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">150 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Kherson</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">354,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">151 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Las Palmas </b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Spain</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">354,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">152 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Smolensk</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">351,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">153 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Bilbao</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Spain</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">351,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">154 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Sevastopol</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">350,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">155 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Murcia</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Spain</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">350,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">156 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Fife</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">349,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">157 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Iasi</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Romania</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">348,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">158 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Katowice</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Poland</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">344,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">159 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Nice</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">France</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">343,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">160 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Stavropol</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">342,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">161 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Constanta</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Romania</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">342,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">162 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Orel</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">342,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">163 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Catania</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Italy</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">341,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">164 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Vitebsk</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Belarus</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">340,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">165 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Kaluga</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">339,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">166 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Belgorod</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">338,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">167 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Z&uuml;rich</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Switzerland</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">337,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">168 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Simferopol</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">337,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">169 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Bari</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Italy</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">335,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">170 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Vladimir</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">335,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">171 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Sochi</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">334,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">172 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Cluj-Napoca</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Romania</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">332,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">173 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Makhachkala</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">331,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">174 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Galati</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Romania</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">330,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">175 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Wirral</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">329,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">176 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>North Lanarkshire</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">325,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">177 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Timisoara</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Romania</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">324,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">178 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Cherepovets</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">323,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">179 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Ostrava</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Czech Republic</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">322,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">180 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Bielefeld</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">321,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">181 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Wakefield</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">317,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">182 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Valladolid</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Spain</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">317,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">183 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Saransk</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">316,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">184 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Cardiff</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">315,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">185 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Brasov</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Romania</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">314,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">186 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Craiova</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Romania</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">313,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">187 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Poltava</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">313,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">188 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Tambov</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">312,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">189 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Dudley</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">312,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">190 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Wigan</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">310,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">191 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Chita</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">309,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">192 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Vladikavkaz</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Russia</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">309,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">193 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>East Riding of Yorkshire</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">308,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">194 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Cherkassy</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">308,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">195 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Mannheim</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Germany</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">307,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">196 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>C&oacute;rdoba</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Spain</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">307,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">197 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>South Lanarkshire</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">307,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">198 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Chernigov</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">307,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">199 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Coventry</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">UK</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">306,000</font></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50">
+								<div align="center">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">200 </font></div>
+							</td>
+							<td bgcolor="#aaaaaa" width="140"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Gorlovka</b></font></td>
+							<td width="100"><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Ukraine</font></td>
+							<td bgcolor="#aaaaaa" width="80">
+								<div align="right">
+									<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">303,000</font></div>
+							</td>
+						</tr>
+					</table>
+					<font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<hr>
+						<a href="euro_cities.html" target="_parent">Introduction to European cities</a> | <a href="euro_cities1.html" target="_parent">European cities ranked 1 to 100</a> | European cities ranked 101 to 200 | <a href="euro_cities3.html" target="_parent">European cities ranked 201 to 300</a> | <a href="euro_cities4.html" target="_parent">European cities ranked 301 to 400</a> | <a href="euro_cities5.html" target="_parent">European cities ranked 401 to 500</a> | <a href="largest_cities.html" target="_parent">The world's 300 largest cities</a> | <a href="urban_areas.html" target="_parent">The world's largest urban areas</a> | <a href="../report/slums.html" target="_parent">Urban slums</a> | <a href="capitals.html" target="_parent">The world's capital cities</a> |<br>
+						<br>
+					</font><font size="-2" face="Arial"><b>THE LARGEST CITIES IN THE WORLD AND THEIR MAYORS 2010</b><br>
+						<a href="../statistics/largest-cities-mayors-intro.html" target="_parent"><b>Introduction</b></a><br>
+						<b>Cities by size:</b> <a href="../statistics/largest-cities-mayors-1.html" target="_parent">1 to 150</a> | <a href="../statistics/largest-cities-mayors-151.html" target="_parent">151 to 300</a> | <a href="../statistics/largest-cities-mayors-301.html" target="_parent">301 to 450</a> | <a href="../statistics/largest-cities-mayors-451.html" target="_parent">451 to 550</a> |<br>
+						<b>Cities in alphabetical order:</b> <a href="../statistics/largest-cities-mayors-ad.html" target="_parent">A to D</a> | <a href="../statistics/largest-cities-mayors-el.html" target="_parent">E to L</a> | <a href="../statistics/largest-cities-mayors-mr.html" target="_parent">M to R</a> | <a href="../statistics/largest-cities-mayors-sz.html" target="_parent">S to Z</a> |<br>
+						<b>Cities by countries:</b> <a href="../statistics/largest-cities-mayors-ad2.html" target="_parent">A to D</a> | <a href="../statistics/largest-cities-mayors-el2.html" target="_parent">E to L</a> | <a href="../statistics/largest-cities-mayors-mr2.html" target="_parent">M to R</a> | <a href="../statistics/largest-cities-mayors-sz2.html" target="_parent">S to Z</a> |</font><font size="-2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
+						<br>
+					</font></td>
+				<td width="5"></td>
+				<td width="150" valign="top" align="left"><font size="2" color="#696969" face="Arial">
+						<table width="52" border="0" cellspacing="2" cellpadding="0">
+							<tr>
+								<td bgcolor="#cccccc">
+									<div align="center">
+										<font size="2" face="Arial"><a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank"><img src="../worldmayor_pics/wm16_150blk.jpg" alt="" border="0"></a><br>
+										</font><font size="2" face="Arial"><a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank"><b>Wanted for the 2016 World Mayor Prize:</b><br>
+													Mayors with exceptional Courage, Compassion and Competence<b><br>
+												</b></a></font></div>
+								</td>
+							</tr>
+						</table>
+					</font><font size="-2" face="Arial"><br>
+						<br>
+					</font><font size="2" color="navy" face="Arial"><b><a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank">Mayors with exceptional courage</a>, <a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank">compassion and competence</a> <a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank">sought for the 2016</a> <a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank">World Mayor Prize</a></b></font><font size="-2" face="Arial"><br>
+						The 2016 World Mayor Prize and Commendations will be awarded to mayors who have accepted and successfully managed the challenges posed by migration but are also convinced of its longterm benefits. They will be leading a city where past and/or more recent immigrants have contributed to the city&rsquo;s society, economy and culture. <i>The City Mayors Foundation will also consider mayors for the honours whose communities has shown exceptional resilience during the recent </i>arrivals from disaster-torn regions<i> of the world.</i><br>
+						<br>
+						If you are convinced, like us, that the world&rsquo;s cities have greatly benefited from immigrants, whose perseverance in the face of hardship and often prejudice has created the civic societies that we value and enjoy today, we invite you to nominate a mayor for the 2016 World Mayor Prize.<br>
+						<br>
+							At a time when there are some 60 million refugees worldwide, mayors to be considered for the World Mayor honours will need to have shown exceptional compassion, courage and competence. Compassion for people who have travelled great distances to find safety. Courage to fight prejudice even in the face of unpopularity. Competence to leverage the value and potential each person offers society.<br>
+						<br>
+						By taking part in this year&rsquo;s World Mayor Project you are also voicing your support for all those cities that have had to bear the brunt of the recent influx of migrants and refugees.<br>
+						<br>
+							Previous winners and runners-up include the mayors of Calgary, Ghent, Bilbao, Perth, Mexico City, Oklahoma City, Cape Town, Zurich, Melbourne, Amsterdam, Athens, Mississauga and Tirana. The World Mayor Project aims to show what outstanding mayors can achieve and raise their profiles nationally and internationally.<br>
+						<br>
+						<b><a href="http://www.worldmayor.com/contest_2016/first_round_2016.html" target="_blank">PLEASE NOMINATE YOUR CHOICE OF MAYOR NOW</a></b><br>
+						<br>
+						<br>
+					</font></td>
+			</tr>
+		</table>
+		<p><br>
+		</p>
+	<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 START -->
+<script type='text/javascript' src='https://count.carrierzone.com/app/count_server/count.js'></script>
+<script type='text/javascript'><!--
+wm_custnum='e74b3b33b01b034f';
+wm_page_name='euro_cities2.html';
+wm_group_name='/services/webpages/c/i/citymayors.com/public/features';
+wm_campaign_key='campaign_id';
+wm_track_alt='';
+wiredminds.count();
+// -->
+</script>
+<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 END -->
+</body>
+
+</html>

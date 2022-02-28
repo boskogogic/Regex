@@ -1,0 +1,25 @@
+<a> ::= <regex> | <standardni_izraz>
+<regex> ::= <simboli> "(" <regularni_izraz> ")"
+<simboli> ::= "." | "[" | "]" | "^" | "$" | "*" | "+" | "?" | "(" | ")" | "{" | "}" | <cifra> | " " 
+<standardni_izraz> ::= <broj_telefona> | <mejl_adresa> | <web_link> | <brojevna_konstanta> | <veliki_grad>
+<broj_telefona> ::= <pozivni_broj> <broj1> "/" <broj2> "-" <broj3>
+<mejl_adresa> ::= <prefiks> "@" <postfix>
+<web_link> ::= "https://" <host> "/" <filename>
+<host> ::= <text> | <simboli> <text> | <host> <simboli> <text> 
+<filename> ::= <text> | <simboli> <text> | <filename> <simboli> <text>
+<brojevna_konstanta> ::= <cifra> | <brojevna_konstanta> <cifra>
+<veliki_grad> ::= <ime_grada> " " <broj_grada_po_velicini>
+<pozivni_broj> ::= "00387" | "0"
+<broj1> ::= "65" | "66"
+<broj2> ::= <cifra> <cifra> <cifra> 
+<broj3> ::= <cifra> <cifra> <cifra>
+<cifra> ::= "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9"
+<prefix> ::= <tekst>
+<postfix> ::= <tekst> "." <domen>
+<tekst> ::= <slovo> | <tekst> <slovo>
+<slovo> ::= "A" | "B" | "C" | "D" | "E" | "F" | "G" | "H" | "I" | "J" | "K" | "L" | "M" | "N" | "O" | "P" | "Q" | "R" | "S" | "T" | "U" | "V" | "W" | "X" | "Y" | "Z" | "a" | "b" | "c" | "d" | "e" | "f" | "g" | "h" | "i" | "j" | "k" | "l" | "m" | "n" | "o" | "p" | "q" | "r" | "s" | "t" | "u" | "v" | "w" | "x" | "y" | "z"
+<ime_grada> ::= <tekst>
+<broj_grada_po_velicini> ::= <cifra> | <cifra> <cifra> | <cifra> <cifra> <cifra>
+
+
+

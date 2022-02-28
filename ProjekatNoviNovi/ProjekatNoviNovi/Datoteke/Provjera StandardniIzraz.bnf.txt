@@ -1,0 +1,5 @@
+<STANDARDEXP>::= <STAND> <STAND2> <STAND3> <STAND4>
+<STAND>::= brojevna_konstantna
+<STAND2>::= broj_telefona
+<STAND3>::= mejl_adresa
+<STAND4>::= web_link
